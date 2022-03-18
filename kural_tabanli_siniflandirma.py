@@ -1,3 +1,5 @@
+# KURAL TABANLI SINIFLANDIRMA İLE POTANSİYEL MÜŞTERİ SEGMENTASYONU ve GETİRİSİ HESAPLAMA #
+
 # ---Kütüphanelerin Import Edilmesi---
 import numpy as np
 import pandas as pd
